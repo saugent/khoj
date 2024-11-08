@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<b>Your AI second brain</b>
+<b>Your AI second brain - Hello hello hello </b>
 </div>
 
 <br />
